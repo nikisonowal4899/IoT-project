@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Health app</string>
+    <string name="onText">Turn ON Bluetooth</string>
+    <string name="offText">Turn OFF Bluetooth</string>
+    <string name="bluetoothON">Bluetooth is ON</string>
+    <string name="bluetoothOFF">Bluetooth is OFF</string>
+    <string name="bluetooth_paired_devices">Bluetooth Paired devices</string>
+    <string name="bluetooth_status">Bluetooth Status</string>
+    <string name="selected_device">Selected device</string>
+    <string name="funny_warning">"Select the HC-05 device"</string>
+    <string name="alert">Alert !</string>
+    <string name="ok">OK</string>
+</resources>
